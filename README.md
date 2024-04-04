@@ -1,3 +1,3 @@
 # projeto_re4
-Visual do projeto, utilizando conceitos básicos em HTML, com estilização em CSS; utiliza JavaScript para realizar o backend. 
+Visual do projeto, hospedado no GitHub Pages.
 https://raul-tenorio02.github.io/projeto_re4/
